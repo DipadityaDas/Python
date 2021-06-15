@@ -3,5 +3,10 @@ All Algorithms💻 implemented 👨‍💻 in Python 🐍 and Java
 
 ## Searching Algorithm
 
-- [Linear Searching]()
-- [Binary Searching]()
+- [Linear Search]()
+- [Binary Search]()
+- [Fibonnaci Search]()
+- []()
+- []()
+- []()
+- []()
