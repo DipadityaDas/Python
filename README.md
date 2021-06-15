@@ -7,6 +7,6 @@ All Algorithms💻 implemented 👨‍💻 in Python 🐍 and Java
 - [Binary Search]()
 - [Fibonnaci Search]()
 - [Quick Search]()
-- []()
+- [Jump Search]()
 - []()
 - []()
