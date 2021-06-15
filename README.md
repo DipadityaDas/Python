@@ -5,8 +5,9 @@ All Algorithms💻 implemented 👨‍💻 in Python 🐍 and Java
 
 - [Linear Search]()
 - [Binary Search]()
-- [Fibonnaci Search]()
+- [Fibonaaci Search]()
 - [Quick Search]()
 - [Jump Search]()
 - [Ternary Search]()
 - [Interpolation Search]()
+- [Exponential Search]()
