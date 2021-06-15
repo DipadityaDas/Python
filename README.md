@@ -6,7 +6,7 @@ All Algorithms💻 implemented 👨‍💻 in Python 🐍 and Java
 - [Linear Search]()
 - [Binary Search]()
 - [Fibonnaci Search]()
-- []()
+- [Quick Search]()
 - []()
 - []()
 - []()
