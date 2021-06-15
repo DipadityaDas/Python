@@ -9,4 +9,4 @@ All Algorithms💻 implemented 👨‍💻 in Python 🐍 and Java
 - [Quick Search]()
 - [Jump Search]()
 - [Ternary Search]()
-- []()
+- [Interpolation Search]()
