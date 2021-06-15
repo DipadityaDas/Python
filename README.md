@@ -8,5 +8,5 @@ All Algorithms💻 implemented 👨‍💻 in Python 🐍 and Java
 - [Fibonnaci Search]()
 - [Quick Search]()
 - [Jump Search]()
-- []()
+- [Ternary Search]()
 - []()
