@@ -3,7 +3,7 @@ All Algorithms💻 implemented 👨‍💻 in Python 🐍 and Java
 
 ## Searching Algorithm
 
-- [`Linear Search`]()
+- [Linear Search]()
 - [Binary Search]()
 - [Fibonaaci Search]()
 - [Quick Search]()
